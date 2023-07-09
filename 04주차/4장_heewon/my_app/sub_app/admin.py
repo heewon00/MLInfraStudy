@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import MyModel
-
+from . import models
 # Register your models here.
-admin.site.register(MyModel)
+# 추가한 모델을 admin page에 등록
+admin.site.register(models.Mymodel)

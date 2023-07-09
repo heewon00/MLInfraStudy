@@ -23,3 +23,6 @@ services:
 volumes:
   static_vol:
   media_vol:
+
+# my_app -> python manage.py collectstatic
+# docker-compose up --build
