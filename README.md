@@ -5,7 +5,7 @@
 
 > 인프런 초보를 위한 쿠버네티스 안내서
 > <br>
-> https://inf.run/mycc
+> https://inf.run/V6nY
 
 <br>
 <br>
