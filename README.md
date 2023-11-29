@@ -50,8 +50,8 @@
 |09|[인프런] 챕터3 초보를 위한 쿠버네티스 안내서|2023-08-18|2023-09-01|✅|
 |10|스터디 회의|2023-11-03|2023-11-03|✅|
 |11|이전 학습 내용 복습|2023-11-03|2023-11-14|✅|
-|12|[Udemy] CKA with Practice Tests: lecture 1~31|2023-11-14|2023-11-29|✅|
-|13|[Udemy] CKA with Practice Tests: TBD |2023-11-29|2023-12-06||
+|12|[Udemy] CKA with Practice Tests: lecture 1~29|2023-11-14|2023-11-29|✅|
+|13|[Udemy] CKA with Practice Tests: lecture 30~50|2023-11-29|2023-12-06||
 
 <br>
 <br>
