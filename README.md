@@ -6,6 +6,10 @@
 > 인프런 초보를 위한 쿠버네티스 안내서
 > <br>
 > https://inf.run/V6nY
+>
+> Certified Kubernetes Administrator (CKA) with Practice Tests
+> <br>
+> https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
 
 <br>
 <br>
@@ -14,7 +18,7 @@
 
 - **주제 :** Infra (쿠버네티스 / 도커)
 - **기간 :** 2023-06-04 ~
-- **스터디 시간 :** 매주 화요일 오후 5시
+- **스터디 시간 :** 매주 수요일 오후 9시
 - **스터디 장소 :** Microsoft Teams (온라인 만남)
 
 <br>
@@ -43,7 +47,7 @@
 |07|챕터0~1 초보를 위한 쿠버네티스 안내서 & 1-6주차 정리|2023-07-26|2023-08-01|✅|
 |08|챕터2~3.6 초보를 위한 쿠버네티스 안내서|2023-08-01|2023-08-18|✅|
 |09|챕터3 초보를 위한 쿠버네티스 안내서|2023-08-18|2023-09-01|✅|
-|10|Deploy Django into Production with Kubernetes, Docker, & Github Actions. Complete Tutorial Series|2023-09-01|2023-09-15||
+|10|[Udemy] CKA with Practice Tests: lecture 1~31|2023-11-15|2023-11-29|✅|
 
 <br>
 <br>
