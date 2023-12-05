@@ -52,7 +52,7 @@
 |11|이전 학습 내용 복습|2023-11-03|2023-11-14|✅|
 |12|[Udemy] CKA with Practice Tests: lecture 1~29|2023-11-14|2023-11-29|✅|
 |13|[Udemy] CKA with Practice Tests: lecture 30~50|2023-11-29|2023-12-05|✅|
-|14|[Udemy] CKA with Practice Tests: lecture 1~50 복습|2023-12-05|2023-12-12||
+|14|[Udemy] CKA with Practice Tests: lecture 1~50 복습 + 자율 학습|2023-12-05|2023-12-12||
 
 <br>
 <br>
